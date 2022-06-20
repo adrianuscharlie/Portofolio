@@ -18,7 +18,7 @@
     min-width: 600px;
     padding: 50px;
     padding-top: 200px;
-    background-image: url("asets/landing.jpg");
+    background-image: url("asets/landing2.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -43,9 +43,9 @@
     color: white;
 }
 #welcomePart .h3{
-    background-color: white;
     color: black;
     padding: 10px;
+    font-size: 20px;
 }
 
 #welcomePart .h2{
@@ -60,7 +60,7 @@
 
 .about .row,.project .row{
     padding: 30px;
-    padding-top: 100px;
+    padding-top: 50px;
 }
 .about .p{
     font-size: 20px;
@@ -83,4 +83,11 @@
     background-color: #131313;
     color: white;
     width: 100%;
+}
+
+.col-md-6 .row{
+    padding: 10px;
+}
+.col-md-6 .row i{
+   color: crimson;
 }
