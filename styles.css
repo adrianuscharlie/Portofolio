@@ -1,0 +1,12 @@
+*{
+    font-family: 'Poppins',sans-serif;
+}
+.navbar{
+    font-size: 25px;
+}
+
+#welcomePart{
+    height: 94vh;
+    min-width: 600px;
+    padding: 50px;
+}
