@@ -3,10 +3,49 @@
 }
 .navbar{
     font-size: 25px;
+    font-weight: bold;
+}
+.navbar li{
+    margin: 10px;
+}
+.navbar li :hover{
+    color: black;
 }
 
 #welcomePart{
-    height: 94vh;
+    height: 100vh;
     min-width: 600px;
     padding: 50px;
+    padding-top: 200px;
+    background-image: url("landing.jpg");
+    background-size: 100%;
+}
+.row{
+    padding: 5px;
+}
+
+.col-6{
+    padding: 30px;
+    padding-top: 30px;
+    justify-content: center;
+}
+.col-6 img{
+    height: 500px;
+    margin-left: 300px;
+}
+.h1{
+    font-size: 100px;
+    font-weight: 100;
+    background-color: black;
+    color: white;
+}
+.h3{
+    background-color: white;
+    color: black;
+    padding: 10px;
+}
+
+.h2{
+    font-weight: 1000;
+    color: black;
 }
