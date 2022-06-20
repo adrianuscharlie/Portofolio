@@ -5,8 +5,8 @@
     font-size: 15px;
     font-weight: bold;
 }
-.navbar li{
-    margin: 10px;
+.sticky{
+    background-color: black;
 }
 #navbar li :hover{
     color: black;
@@ -18,7 +18,7 @@
     min-width: 600px;
     padding: 50px;
     padding-top: 200px;
-    background-image: url("landing.jpg");
+    background-image: url("asets/landing.jpg");
     background-size: 100%;
 }
 .row{
@@ -30,7 +30,7 @@
     padding-top: 30px;
     justify-content: center;
 }
-#welcomePart .col-6 img{
+ .col-6 img{
     height: 350px;
     margin-left: 200px;
 }
@@ -58,4 +58,13 @@
 .about .row{
     padding: 30px;
     padding-top: 100px;
+}
+.about .p{
+    font-size: 20px;
+}
+.about .h2{
+    font-weight: bold;
+}
+hr{
+    height: 20px;
 }
