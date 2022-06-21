@@ -84,6 +84,7 @@
 }
 .about a{
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 .project .h2{
     font-weight: bold;
@@ -120,7 +121,8 @@
     height: 90vh;
 }
 .contact .btn{
-    font-size:25px;
+    font-size:20px;
+    margin:10px;
 }
 
 #programmingSkills{
