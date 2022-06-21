@@ -65,12 +65,13 @@
     padding: 30px;
     padding-top: 50px;
 }
-.about .p{
-    font-size: 20px;
-}
 .about .h2, .contact .h2{
     font-weight: bold;
     text-align: center;
+}
+.about .h5{
+    font-weight: bold;
+    color: crimson;
 }
 .h2{
     font-weight: bold;
@@ -114,4 +115,8 @@
 }
 .contact .btn{
     font-size:25px;
+}
+
+#programmingSkills{
+    margin-top: 20px;
 }
