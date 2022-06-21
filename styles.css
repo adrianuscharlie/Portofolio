@@ -8,6 +8,12 @@
 .sticky{
     background-color: black;
 }
+#logo{
+    color: crimson;
+}
+#logo img{
+    height: 20px;
+}
 #navbar li :hover{
     color: crimson;
 }
@@ -57,13 +63,13 @@
     margin-left: 10px;
 }
 .about{
-    height: 115vh;
+    height: 100vh;
     width: 100%;
 }
 
 .about .row,.project .row, .contact .row{
     padding: 30px;
-    padding-top: 50px;
+    padding-top: 75px;
 }
 .about .h2, .contact .h2{
     font-weight: bold;
